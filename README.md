@@ -1,10 +1,8 @@
 # App Produto
 
-Feito com: 
-
 Backend:
-+ SpringBoot - REST.
 + Java 8.
++ SpringBoot - REST.
 + JPA (Hibernate) e Spring Data para persistência.
 + URL Rest amigável com retorno JSON.
 
