@@ -1,8 +1,11 @@
----
 server:
   port: 8080
   contextPath: /AppProduto
----
+
+spring:
+  main:
+    banner-mode: off
+
 datasource:
   sampleapp:
     url: jdbc:h2:~/test
